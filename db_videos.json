@@ -1,0 +1,419 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "author": "Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "May 10, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "react",
+        "tips"
+      ],
+      "likes": 37,
+      "unlikes": 10
+    },
+    {
+      "id": 2,
+      "title": "VS Code Snippets - Boost your productivity with User Snippets",
+      "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+      "author": "John Doe",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "April 25, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+      "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+      "tags": [
+        "vscode",
+        "tips"
+      ],
+      "likes": 30,
+      "unlikes": 6
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+      "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+      "author": "Jane Doe",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "March 11, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+      "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css"
+      ],
+      "likes": 22,
+      "unlikes": 4
+    },
+    {
+      "id": 4,
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+      "author": "John Doe",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Jan 06, 2022",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+      "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+      "tags": [
+        "debounce",
+        "javascript",
+        "tips"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 5,
+      "title": "SASS Tutorial in English - Overview of SASS",
+      "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 22, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+      "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+      "tags": [
+        "sass",
+        "css",
+        "ui"
+      ],
+      "likes": 21,
+      "unlikes": 2
+    },
+    {
+      "id": 6,
+      "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+      "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Nov 08, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+      "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "router",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 7,
+      "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+      "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+      "author": "Learn with Sumit",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+      "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 8,
+      "title": "Learn React Router v6 In 45 Minutes",
+      "description": "Nearly every app in React needs to handle routing and by far the most popular library for handling routing is React Router. In this video I will break down everything you need to know about React Router v6 so you can master routing in your next project.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/Ul3y1LXxzdU",
+      "thumbnail": "https://i3.ytimg.com/vi/Ul3y1LXxzdU/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 9,
+      "title": "Sass, BEM, & Responsive Design (4 hr beginners course)",
+      "description": "In this video I'll walk you through the basics of Sass, BEM (block-element-modifier), and the principles of responsive design. This is a standalone course in Sass that's taken from my full course, Responsive Design for Beginners.",
+      "author": "Coder Coder",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "3:45:10",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/jfMHA8SqUL4",
+      "thumbnail": "https://i3.ytimg.com/vi/jfMHA8SqUL4/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "ui",
+        "sass"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 10,
+      "title": "Learn useState In 15 Minutes - React Hooks Explained",
+      "description": "In this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "15:45",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/O6P86uwfdR0",
+      "thumbnail": "https://i3.ytimg.com/vi/O6P86uwfdR0/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 11,
+      "title": "Live coding a WORDLE clone (5 hrs) | HTML Sass JS",
+      "description": "In this video I'll show you how I research and build a Wordle clone from scratch with HTML, Sass, and JavaScript.",
+      "author": "Coder Coder",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "4:44:47",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/PNGgQzw6PQg",
+      "thumbnail": "https://i3.ytimg.com/vi/PNGgQzw6PQg/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "ui",
+        "sass",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 12,
+      "title": "How to build an accordion with HTML, CSS, and JavaScript (Part 2)",
+      "description": "In this video I'll be coding an accordion from Frontend Mentor, using HTML, CSS, and JavaScript! (Part 2 of 2)",
+      "author": "Coder Coder",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "1:13:26",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/sr94O6Y5NEA",
+      "thumbnail": "https://i3.ytimg.com/vi/sr94O6Y5NEA/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "sass",
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 13,
+      "title": "CSS Grid Layout Crash Course",
+      "description": "In this video we will look at the new CSS Grid layout and how to create grid based layouts and alignments. We will look at properties for containers and items.",
+      "author": "Traversy Media",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "27:55",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/jV8B24rSN5o",
+      "thumbnail": "https://i3.ytimg.com/vi/jV8B24rSN5o/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 14,
+      "title": "Flexbox CSS In 20 Minutes",
+      "description": "In this quick video we will go over the CSS Flexbox model. This is a quick overview, not an in-depth course. We will look at the basics",
+      "author": "Traversy Media",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "19:59",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/JJSoEo8JSnc",
+      "thumbnail": "https://i3.ytimg.com/vi/JJSoEo8JSnc/maxresdefault.jpg",
+      "tags": [
+        "tailwind",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 15,
+      "title": "CSS Crash Course For Absolute Beginners",
+      "description": "In this video I will cram as much as possible about CSS. We will be looking at styles, selectors, declarations, etc. We will build a CSS cheat sheet that you can keep as a resource and we will also create a basic website layout. We are using CSS3 but mostly the basics. I will be creating an advanced CSS course with animations,  etc. I do have a Flexbox in 20 minutes video as well if you want to learn flexbox.",
+      "author": "Traversy Media",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "1:25:11",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/yfoY53QXEnI",
+      "thumbnail": "https://i3.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg",
+      "tags": [
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 16,
+      "title": "Learn JSON in 10 Minutes",
+      "description": "In this video we will cover everything you need to know about JSON in only 10 minutes. We will cover what JSON is, why JSON is important, what JSON is used for, the syntax of JSON, and multiple examples of JSON. JSON is the most popular data representation format, and is one of the most important, and easiest concepts you can learn in programming. It allows you to create APIs, config files, and structured data. We will be covering all of the terminology, and going through live examples of all the different JSON types.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "12:00",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/iiADhChRriM",
+      "thumbnail": "https://i3.ytimg.com/vi/iiADhChRriM/maxresdefault.jpg",
+      "tags": [
+        "javascript"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 17,
+      "title": "Git vs. GitHub: What's the difference?",
+      "description": "What is Git and what is it used for? What is the difference between Git and GitHub, or GitLab? In this lightboard video, Nathan Hekman with IBM Cloud, answers these questions and much more by using an example of a media streaming company that has two developers who need to write code at the same time on the same code base without conflicting with each other in order to build a new music streaming app.",
+      "author": "IBM Technology",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "10:06",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/wpISo9TNjfU",
+      "thumbnail": "https://i3.ytimg.com/vi/wpISo9TNjfU/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "vscode"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 18,
+      "title": "What is a REST API?",
+      "description": "What is a REST API? What are the benefits and how are they fundamental to your cloud application? In this lightboard video, Nathan Hekman with IBM Cloud, answers these questions and much more as he visually shows the benefits a company can gain with using REST API.",
+      "author": "IBM Technology",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "9:12",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/lsMQRaeKNDk",
+      "thumbnail": "https://i3.ytimg.com/vi/lsMQRaeKNDk/maxresdefault.jpg",
+      "tags": [
+        "javascript",
+        "css",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 19,
+      "title": "Learn useState In 15 Minutes - React Hooks Explained",
+      "description": "In this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "15:45",
+      "views": "2.1k",
+      "link": "https://www.youtube.com/embed/O6P86uwfdR0",
+      "thumbnail": "https://i3.ytimg.com/vi/O6P86uwfdR0/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    },
+    {
+      "id": 20,
+      "title": "Learn React In 30 Minutes",
+      "description": "In this video I will be covering all of the basics of React in only 30 minutes. We will cover create-react-app, components, state, props, rendering, event handling, and so much more. By the end of this video you will have a full understanding of the basics of React, but if you want to take your React knowledge to the next level checkout my full React course linked above for the best React learning experience on the web.",
+      "author": "Web Dev Simplified",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "date": "Oct 15, 2021",
+      "duration": "27:15",
+      "views": "251k",
+      "link": "https://www.youtube.com/embed/hQAHSlTtcmY",
+      "thumbnail": "https://i3.ytimg.com/vi/hQAHSlTtcmY/maxresdefault.jpg",
+      "tags": [
+        "react",
+        "javascript",
+        "ui"
+      ],
+      "likes": 0,
+      "unlikes": 0
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "javascript"
+    },
+    {
+      "id": 2,
+      "title": "react"
+    },
+    {
+      "id": 3,
+      "title": "tips"
+    },
+    {
+      "id": 4,
+      "title": "vscode"
+    },
+    {
+      "id": 5,
+      "title": "tailwind"
+    },
+    {
+      "id": 6,
+      "title": "css"
+    },
+    {
+      "id": 7,
+      "title": "debounce"
+    },
+    {
+      "id": 8,
+      "title": "sass"
+    },
+    {
+      "id": 9,
+      "title": "ui"
+    },
+    {
+      "id": 10,
+      "title": "router"
+    }
+  ]
+}
