@@ -1,3 +1,2 @@
 //PROCFILE
 web: node server.js
-// "start": "json-server --watch db_videos.json --no-cors true --port 9000"
